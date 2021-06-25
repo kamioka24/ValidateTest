@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ValidateTest</string>
+    <string name="app_name">バリデーションテスト</string>
+    <string name="enter">入力</string>
 </resources>
